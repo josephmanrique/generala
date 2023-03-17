@@ -1,0 +1,2 @@
+# generala
+anotador generala
